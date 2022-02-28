@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#row {
+  width: 100%;
+  float: left;
+}
+.container {
+    width: 90%;
+    margin: auto;
+
+}
+.logo-part {
+  width: 30%;
+  background-color: aqua;
+  float: left;
+}
+.logo-part img {
+  width: 20%;
+}
+.menu-part {
+  width: 40%;
+  float: left;
+  background-color: aquamarine;
+}
+.menu-part ul {
+
+}
+.menu-part li {
+
+}
+.menu-part a {
+
+}
+.search-part {
+  width: 30%;
+  float: left;
+  background-color: blue;
+}
+#hero{
+    width: 100%;
+    float: left;
+}
+.hero-writing-part {
+  width: 50%;
+  float: left;
+}
+.hero-img-part {
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+.hero-img-part img {
+  width: 60%;
+}
